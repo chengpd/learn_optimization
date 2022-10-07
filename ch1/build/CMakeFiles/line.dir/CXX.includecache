@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cp/learn_youhua/ch1/homework_1.cpp
+iostream
+/home/cp/learn_youhua/ch1/iostream
+math.h
+/home/cp/learn_youhua/ch1/math.h
+ctime
+/home/cp/learn_youhua/ch1/ctime
+
